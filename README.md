@@ -22,3 +22,6 @@ Updates progress bar width (progress.style.width).
 Updates numbers (completed/total) in #numbers.
 
 Prevents division by zero when no tasks exist.
+
+<h2>Additional function</h2>
+After completing all tasks conffeti is added.
