@@ -1,5 +1,5 @@
-# 2-To-Do-List-App
-Task 2-To-Do List App using HTML,CSS and JS
+# 2-To-Do-List-App<br>
+Task 2-To-Do List App using HTML,CSS and JS<br>
 This Web App is used to list all important tasks to be Done.<br>
 we can Add, Read, update,Delete tasks using this app.<br>
 
